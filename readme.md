@@ -1,11 +1,10 @@
-# Emha Inventory Management
+# Emha Inventory Management – Desain Sprint 1
 
-Selamat datang di proyek desain **Emha Inventory Management**! 🎨
+Selamat datang di dokumentasi **Desain Sprint 1** untuk proyek **Emha Inventory Management**! 🎨
 
-Repositori ini berisi rancangan visual dan konsep antarmuka dari sistem manajemen inventaris bernama Emha. Proyek ini bertujuan untuk menghadirkan pengalaman pengguna yang intuitif, ramah, dan efisien.
+Sprint ini menandai langkah awal dalam perancangan tampilan dan pengalaman pengguna sistem ini.
 
-Terima kasih telah mengunjungi proyek ini. Silakan eksplorasi dan nikmati desain yang telah disiapkan.
+Terima kasih telah mengunjungi dan mengikuti perkembangan proyek desain ini.
 
 ---
-
-✨ Dirancang dengan fokus pada kenyamanan dan kemudahan penggunaan.
+🛠️ Desain dengan visi, dikembangkan dengan hati.
